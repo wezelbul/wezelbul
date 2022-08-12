@@ -12,6 +12,18 @@
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wezelbul&layout=compact" /></a>
 </p>
 
+<p align='center'>
+   <a href="https://t.me/Dmitrii_Ches" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/romankh3/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <p align='center'>
+  📫  How to reach me: <a href='mailto:d.chesnokov.01@yandex.ru'>d.chesnokov.01@yandex.ru</a>
+</p>
+
+
 ## Languages:
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/languages/Java.svg" alt="Java" title="Java" width="40" height="40"/> </a> 
