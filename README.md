@@ -13,13 +13,18 @@
 </p>
 
 <p align='center'>
-   <a href="https://t.me/Dmitrii_Ches" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
- <p align='center'>
-  📫  How to reach me: <a href='mailto:d.chesnokov.01@yandex.ru'>d.chesnokov.01@yandex.ru</a>
+   <a href="https://t.me/Dmitrii_Ches">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=https://t.me/Dmitrii_Ches title=https://t.me/Dmitrii_Ches />        
+  </a>
+  <a href="mailto:d.chesnokov.01@yandex.ru">
+    <img src="https://shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt=d.chesnokov.01@yandex.ru title=d.chesnokov.01@yandex.ru />     
+  </a>
 </p>
 
+<p>A beginner Java-developer with eight months of development experience.</p>
+<p>:checkered_flag: finished <a href="https://github.com/wezelbul/java-kanban">Task Manager</a> based on Java 8+.</p>
+<p>🔭 currently working on <a href="https://github.com/wezelbul/java-filmorate">a social network project for movie lovers</a>.</p>
+<p>🌱 in future I'm going to develop an information aggregator based on <a href="https://core.telegram.org/bots/api">Telegram Bot API</a>.</p>
 
 ## Languages:
 <p align="left"> 
