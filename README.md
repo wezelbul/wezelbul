@@ -22,7 +22,7 @@
 </p>
 
 <p>A beginner Java-developer with eight months of development experience.</p>
-<p>:checkered_flag: finished <a href="https://github.com/wezelbul/java-kanban">Task Manager</a> based on Java 8+.</p>
+<p>:checkered_flag: finished <a href="https://github.com/wezelbul/java-kanban">Task Tracker</a> based on Java 8+.</p>
 <p>🔭 currently working on <a href="https://github.com/wezelbul/java-filmorate">a social network project for movie lovers</a>.</p>
 <p>🌱 in future I'm going to develop an information aggregator based on <a href="https://core.telegram.org/bots/api">Telegram Bot API</a>.</p>
 
