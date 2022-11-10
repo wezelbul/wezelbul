@@ -23,7 +23,7 @@
 
 <p>A beginner Java-developer with eight months of development experience.</p>
 <p>:checkered_flag: finished <a href="https://github.com/wezelbul/java-kanban">Task Tracker</a> based on Java 11.</p>
-<p>🔭 currently working on <a href="https://github.com/wezelbul/java-filmorate">a service for movie lovers</a>.</p>
+<p>:checkered_flag: finished <a href="https://github.com/wezelbul/java-filmorate">a service for movie lovers</a> based on Spring Boot.</p>
 <p>🌱 in future I'm going to develop an information aggregator based on <a href="https://core.telegram.org/bots/api">Telegram Bot API</a>.</p>
 
 ## Languages:
