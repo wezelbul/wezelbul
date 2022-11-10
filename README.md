@@ -13,7 +13,7 @@
 </p>
 
 <p align='center'>
-   <a href="https://t.me/Dmitrii_Ches">
+   <a href="https://t.me/DmitriiChes">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=https://t.me/Dmitrii_Ches title=https://t.me/Dmitrii_Ches />        
   </a>
   <a href="mailto:d.chesnokov.01@yandex.ru">
