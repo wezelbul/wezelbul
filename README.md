@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Dmitrii!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior QA Automation Engineer, Yandex.Practicum student from Russia :ru:</h3>
+<h3 align="center">Junior QA Automation Engineer from Russia :ru:</h3>
 <p align = 'center'>
   <a href="https://www.codewars.com/users/wezelbul">
     <img src="https://www.codewars.com/users/wezelbul/badges/small" alt="Codewars" /></a>
