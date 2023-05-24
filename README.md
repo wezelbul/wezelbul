@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Dmitrii!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior QA Automation Engineer from Russia :ru:</h3>
+<h3 align="center">Automation QA Engineer from Russia :ru:</h3>
 <p align = 'center'>
   <a href="https://www.codewars.com/users/wezelbul">
     <img src="https://www.codewars.com/users/wezelbul/badges/small" alt="Codewars" /></a>
@@ -21,10 +21,10 @@
   </a>
 </p>
 
-<p>A beginner Java-developer with one year of development experience.</p>
+<p>Automation QA Engineer with 2 years of development experience.</p>
+<p>As part of learning the Java language:</p>
 <p>:checkered_flag: finished <a href="https://github.com/wezelbul/java-kanban">Task Tracker</a> based on Java 11.</p>
 <p>:checkered_flag: finished <a href="https://github.com/wezelbul/java-filmorate">a service for movie lovers</a> based on Spring Boot.</p>
-<p>🌱 in future I'm going to develop an information aggregator based on <a href="https://core.telegram.org/bots/api">Telegram Bot API</a>.</p>
 
 ## Languages:
 <p align="left"> 
@@ -32,24 +32,6 @@
 </p>
 
 ## Skills:
-<h4>Develop:<h4>
-<p align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/04_Git.svg" alt="Git" title="Git" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/05_IntelliJ_IDEA.svg" alt="Intellij IDEA" title="Intellij IDEA" width="40" height="40"/> </a> 
-  <a href="https://spring.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/08_Spring.svg" alt="Spring" title="Spring" width="40" height="40"/> </a> 
-  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/09_Maven.svg" alt="Maven" title="Maven" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/13_MySQL.svg" alt="MySQL" title="MySQL" width="40" height="40"/> </a> 
-</p>
-
-<details>
-  
-  <summary>More Skills</summary>
-  
   <h4>Testing:</h4>
     <p align="left">
     <a href="https://junit.org/junit5/"> 
@@ -62,6 +44,20 @@
       <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/11_Rest_Assured.svg" alt="Rest Assured" title="Rest Assured" width="40" height="40"/> </a> 
     <a href="https://docs.cucumber.io" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/12_Cucumber.svg" alt="Cucumber" title="Cucumber" width="40" height="40"/> </a>
+  </p>
+
+  <h4>Develop:<h4>
+  <p align="left">
+    <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/04_Git.svg" alt="Git" title="Git" width="40" height="40"/> </a> 
+   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/05_IntelliJ_IDEA.svg" alt="Intellij IDEA" title="Intellij IDEA" width="40" height="40"/> </a> 
+    <a href="https://spring.io" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/08_Spring.svg" alt="Spring" title="Spring" width="40" height="40"/> </a> 
+    <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/09_Maven.svg" alt="Maven" title="Maven" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/13_MySQL.svg" alt="MySQL" title="MySQL" width="40" height="40"/> </a> 
   </p>
   
   <h4>Tools:</h4>
@@ -77,8 +73,6 @@
     <a href="https://insomnia.rest" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/wezelbul/wezelbul/main/icons/tools/16_Insomnia.svg" alt="Insomnia" title="Insomnia" width="40" height="40"/> </a>
   </p>
-  
-</details>
 
 <!--
 **wezelbul/wezelbul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
