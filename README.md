@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<p>Automation QA Engineer with 2 years of development experience.</p>
+
 <p>As part of learning the Java language:</p>
 <p>:checkered_flag: finished <a href="https://github.com/wezelbul/java-kanban">Task Tracker</a> based on Java 11.</p>
 <p>:checkered_flag: finished <a href="https://github.com/wezelbul/java-filmorate">a service for movie lovers</a> based on Spring Boot.</p>
